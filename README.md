@@ -1,2 +1,0 @@
-# Reversability
-Word Reversability
